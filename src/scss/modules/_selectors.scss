@@ -26,9 +26,9 @@
 
 .selectors .highlight {
   font-weight: 700;
-  color: #f44336;
+  color: black;
 }
 
-.selectors .highlight:nth-child(even) {
-  color: black;
+.selectors .article .highlight {
+  color: #f44336;
 }
